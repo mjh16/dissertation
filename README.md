@@ -1,4 +1,4 @@
-# dissertation
+# Dissertation
 Data Presentation and Digital Archive
 
 ## License
