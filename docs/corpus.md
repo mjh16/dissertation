@@ -10,8 +10,8 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/corpus_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    style="border: 1px solid black" 
+    style="overflow:visible" 
     width="640"
-    height="640"
+    height="400"
     frameborder="0">
 </iframe>
