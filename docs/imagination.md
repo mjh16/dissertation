@@ -12,8 +12,8 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 ## Imagination snapshot _techne_ datatable
 <iframe src="visualizations/imagination_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="240"
+    width="100%"
+    height="100%"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
