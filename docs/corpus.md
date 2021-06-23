@@ -14,7 +14,7 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
     sandbox="allow-same-origin allow-scripts"
     width="1000"
     height="640"
-    scrolling="yes"
+    scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
