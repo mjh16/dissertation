@@ -5,17 +5,13 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
     sandbox="allow-same-origin allow-scripts"
     width="800"
     height="100%"
-    scrolling="yes"
-    seamless="seamless"
     frameborder="0">
 </iframe>
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/corpus_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    style="overflow:hidden;height:100%;width:100%" 
-    width="640"
-    height="640"
-    scrolling="no"
-    seamless="seamless"
+    style="overflow:hidden;height:200%;width:200%;border: 1px solid black" 
+    width="200%"
+    height="200%"
     frameborder="0">
 </iframe>
