@@ -12,7 +12,7 @@
 <iframe src="visualizations/imagination_datatable.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="100%"
+    height="800"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
