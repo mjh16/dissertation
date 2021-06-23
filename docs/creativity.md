@@ -12,8 +12,8 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 ## Creativity Snapshot _techne_ Datatable
 <iframe src="visualizations/creativity_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
+    width="640"
+    height="640"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
