@@ -5,14 +5,14 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
     sandbox="allow-same-origin allow-scripts"
     width="810"
     height="660"
-    style="overflow:visible"
+    style="overflow:hidden"
     frameborder="0">
 </iframe>
 ## Creativity Snapshot _techne_ Datatable
 <iframe src="visualizations/creativity_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    style="overflow:visible" 
+    style="overflow:hidden" 
     width="640"
-    height="400"
+    height="410"
     frameborder="0">
 </iframe>
