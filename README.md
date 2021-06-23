@@ -18,5 +18,12 @@ The annotated code for the different visualizations is available below.
 # Visualizations
 I have worked to link the visualizations in an interactive form below. I have also worked to make the visualizations show the interpreted topic, and to render the data table on the page as well.
 
+The interactive visualizations and datatables are [available here](https://mjh16.github.io/dissertation/). Each of of the individual snapshots is listed below:
+- [Corpus Impressions](https://mjh16.github.io/dissertation/corpus)
+- [Techne Snapshot](https://mjh16.github.io/dissertation/techne)
+- [Invention Snapshot](https://mjh16.github.io/dissertation/invention)
+- [Creativity Snapshot](https://mjh16.github.io/dissertation/creativity)
+- [Imagination Snapshot](https://mjh16.github.io/dissertation/imagination)
+
 ## License
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
