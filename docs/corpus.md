@@ -11,8 +11,8 @@
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/corpus_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="800"
+    width="800"
+    height="640"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
