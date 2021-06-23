@@ -2,8 +2,8 @@
 ## Corpus _techne_ graph
 <iframe src="visualizations/corpus_visualization.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
+    width="900"
+    height="900"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
