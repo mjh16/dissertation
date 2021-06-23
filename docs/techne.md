@@ -2,8 +2,8 @@
 ## _Techne_ snapshot graph
 <iframe src="visualizations/techne_visualization.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="640"
+    width="810"
+    height="660"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
