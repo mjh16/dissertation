@@ -11,7 +11,7 @@
 ## Imagination snapshot _techne_ datatable
 <iframe src="visualizations/imagination_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="800"
     height="240"
     scrolling="yes"
     seamless="seamless"
