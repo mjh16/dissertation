@@ -3,16 +3,16 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 ## Corpus _techne_ graph
 <iframe src="visualizations/corpus_visualization.html"
     sandbox="allow-same-origin allow-scripts"
-    style="overflow:visible" 
-    width="800"
-    height="800"
+    style="overflow:hidden" 
+    width="810"
+    height="810"
     frameborder="0">
 </iframe>
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/corpus_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    style="overflow:visible" 
+    style="overflow:hidden" 
     width="640"
-    height="400"
+    height="410"
     frameborder="0">
 </iframe>
