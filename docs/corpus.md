@@ -3,8 +3,9 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 ## Corpus _techne_ graph
 <iframe src="visualizations/corpus_visualization.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="800"
+    style="overflow:hidden;height:100%;width:100%" 
+    width="100%"
+    height="100%"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
