@@ -4,14 +4,14 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
 <iframe src="visualizations/corpus_visualization.html"
     sandbox="allow-same-origin allow-scripts"
     width="800"
-    height="100%"
+    height="800"
     frameborder="0">
 </iframe>
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/corpus_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    style="overflow:hidden;height:200%;width:200%;border: 1px solid black" 
-    width="200%"
-    height="200%"
+    style="border: 1px solid black" 
+    width="640"
+    height="640"
     frameborder="0">
 </iframe>
