@@ -1,5 +1,5 @@
-# Corpus _Techne_ Impressions Visualization
-## Corpus _techne_ graph
+# Invention Snapshot _Techne_ Impressions Visualization
+## Invention snapshot _techne_ graph
 <iframe src="visualizations/invention_visualization.html"
     sandbox="allow-same-origin allow-scripts"
     width="800"
@@ -8,11 +8,11 @@
     seamless="seamless"
     frameborder="0">
 </iframe>
-## Corpus _techne_ Datatable
+## Invention snapshot _techne_ datatable
 <iframe src="visualizations/invention_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="640"
+    width="100%"
+    height="100%"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
