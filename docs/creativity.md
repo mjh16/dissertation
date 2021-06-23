@@ -2,8 +2,8 @@
 ## Corpus _techne_ graph
 <iframe src="visualizations/creativity_visualization.html"
     sandbox="allow-same-origin allow-scripts"
-    width="640"
-    height="800"
+    width="800"
+    height="640"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
@@ -11,8 +11,8 @@
 ## Corpus _techne_ Datatable
 <iframe src="visualizations/creativity_datatable.html"
     sandbox="allow-same-origin allow-scripts"
-    width="640"
-    height="800"
+    width="800"
+    height="640"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
