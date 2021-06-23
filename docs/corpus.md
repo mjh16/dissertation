@@ -1,6 +1,6 @@
 # Corpus _Techne_ Impressions Visualization
 ## Corpus _techne_ graph
-<iframe src="/visualizations/corpus_visualization.html"
+<iframe src="visualizations/corpus_visualization.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
