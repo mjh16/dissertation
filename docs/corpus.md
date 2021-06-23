@@ -13,6 +13,6 @@ Hovering of the lines of the visualization will provide the year, key, and mean 
     sandbox="allow-same-origin allow-scripts"
     style="overflow:hidden" 
     width="640"
-    height="410"
+    height="425"
     frameborder="0">
 </iframe>
