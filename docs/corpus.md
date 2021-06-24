@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Corpus _Techne_ Impressions Visualization"
 
 ---
