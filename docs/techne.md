@@ -1,6 +1,8 @@
-layout: page
+---
+layout: post
 title: "Techne Snapshot Visualization"
-permalink: /techne/
+
+---
 
 Hovering of the lines of the visualization will provide the year, key, and mean weight value of the nearest point. You can use the toolbar on the right hand side to zoom, scroll, and reset the visualization.
 ## _Techne_ snapshot graph
