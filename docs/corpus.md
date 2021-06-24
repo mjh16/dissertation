@@ -1,5 +1,5 @@
 ---
-title: "Corpus _Techne_ Impressionsions"
+title: "Corpus Impressions"
 ---
 Hovering of the lines of the visualization will provide the year, key, and mean weight value of the nearest point. You can use the toolbar on the right hand side to zoom, scroll, and reset the visualization. Clicking on the numbered legend on the right will mute that line and points.
 ## Corpus _techne_ graph
