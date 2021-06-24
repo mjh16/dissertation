@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Corpus _Techne_ Impressions Visualization"
-permalink: /corpus/
+
 ---
 
 # Corpus _Techne_ Impressions Visualization
