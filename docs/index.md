@@ -1,8 +1,3 @@
----
-layout: page
-title: "Welcome to Michael's Dissertation Digital Appendix"
-
----
 This page is rendered to embed the visualizations and datatables that were used in the data curation for the dissertation. The links to the pages for the different visualizations can be found below.
 
 ### [Corpus](corpus)
