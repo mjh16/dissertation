@@ -1,5 +1,6 @@
-# Imagination Snapshot _Techne_ Impressions Visualization
-[back](index.html)
+---
+title: "Imagination Snapshot _Techne_ Impressions"
+---
 
 Hovering of the lines of the visualization will provide the year, key, and mean weight value of the nearest point. You can use the toolbar on the right hand side to zoom, scroll, and reset the visualization. Clicking on the numbered legend on the right will mute that line and points.
 ## Imagination snapshot _techne_ graph
